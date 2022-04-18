@@ -1,0 +1,5 @@
+classes = 4
+train = data/train.txt
+valid = data/test.txt
+names = data/obj.names
+backup = /content/gdrive/MyDrive/facemask-type-yolov4/training
